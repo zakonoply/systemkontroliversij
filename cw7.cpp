@@ -1,6 +1,8 @@
 #include <iostream> 
 #include <cmath> 
  
+
+// AJ MAMA, JAKI FAJNY KOD
 using namespace std;
  
 int main()
