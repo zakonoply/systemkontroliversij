@@ -28,6 +28,6 @@ int main()
     cout << "x1 = x2 = " << x1 << "\n";
   }
   if (d < 0) 
-    cout << "Bl¹d";
+    cout << "EROR";
 }
 
