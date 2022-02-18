@@ -32,4 +32,4 @@ int main()
   if (d < 0) 
     cout << "EROR";
 }
-
+//najs delajesz
